@@ -1,9 +1,9 @@
-# Object-Oriented-Programming-cs246-Chess
+# Object-Oriented-Programming-CS246-Chess
 Chess Game 
 
 Team: Varuni Gupta, Alyona Vishnoi and Sydney Nguyen
   
-We developed this chess game in CS246 (University of Waterloo) as a final project.
+We developed this chess game in CS246 (University of Waterloo) as a final project using C++ Design Patterns and MVC principles.
  
 Our chess game features 4 levels of difficulty for the AI player and a graphical interface using X11. Player versus Player, Player versus Computer and Computer versus Computer games are possible.
 
