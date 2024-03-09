@@ -11,6 +11,6 @@ All functionalities were implemented from the Assignment specifications.
 
 Learn more about the game: 
 <br>
-<a href="docs/uml_final.pdf">UML Class Diagram</a>
+<a href="./uml-final.pdf">UML Class Diagram</a>
 <br>
-<a href="docs/design.pdf">Design Document</a>
+<a href="./design.pdf">Design Document</a>
